@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sound Wave</string>
+
+    <string name="error">Error</string>
+    <string name="microphone_in_use">Unable to capture audio. Likely permission for the microphone isn\'t enabled. Please verify this in your device\'s application settings.</string>
+
+    <string name="alert">Alert</string>
+    <string name="record_audio_permission_request">This application requires the RECORD_AUDIO permission in order to display audio waves on the screen. Without it, this application will not be able to function.</string>
+</resources>
