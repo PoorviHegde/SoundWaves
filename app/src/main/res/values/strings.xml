@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Sound Wave</string>
+    <string name="app_name">Note Split</string>
 
     <string name="error">Error</string>
     <string name="microphone_in_use">Unable to capture audio. Likely permission for the microphone isn\'t enabled. Please verify this in your device\'s application settings.</string>

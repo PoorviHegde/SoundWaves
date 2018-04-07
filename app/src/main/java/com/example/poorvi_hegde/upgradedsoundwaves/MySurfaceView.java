@@ -159,5 +159,7 @@ public class MySurfaceView extends View {
             list.add(amplitude);
         }
     }
+
+
 }
 

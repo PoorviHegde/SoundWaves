@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UpgradedSoundWaves.iml" filepath="$PROJECT_DIR$/UpgradedSoundWaves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoundWaves.iml" filepath="$PROJECT_DIR$/SoundWaves.iml" />
+      <module fileurl="file://C:\Android\Projects\SoundWaves\UpgradedSoundWaves.iml" filepath="C:\Android\Projects\SoundWaves\UpgradedSoundWaves.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
